@@ -29,15 +29,6 @@ class MyTestCase(unittest.TestCase):
     def mytest(self):
         assert_sum(sample) < _mult(sample)
 
-    array = [i for i in range(500)]
-    start = time.time()
-    sum_def = array[0]
-    for i in range(1, len(array)):
-        sum_def += array[i]
-    print(time.time() - start)
-
-
-
-
+        
 if __name__ == '__main__':
     unittest.main()
