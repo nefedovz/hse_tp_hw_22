@@ -1,4 +1,3 @@
 # hse_tp_hw_2
-## Функции
-### _min - минимум
-дцлоа
+### Функции
+hse_tp_hw_2/main/main.py/_min
